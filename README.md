@@ -9,9 +9,10 @@ Conhecimento em bancos de dados como MySQL, SQL, SQLServer, DB2, etc
 
 <div align="center">
   <a href="https://github.com/deyvson-carlos">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=deyvson-carlos&show_icons=true&theme=dracula"/>
-  <img height="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvson-carlos&layout=compact&theme=dracula"/>
+  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=deyvson-carlos&show_icons=true&theme=dracula"/>
+  <img height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvson-carlos&layout=compact&theme=dracula"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
