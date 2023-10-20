@@ -1,6 +1,6 @@
 ## Oi, me chamo Deyvson Carlos, sou desenvolvedor FullStack 
 
-Sou estudante de ADS na FICR. Estou me aperfeiçoando em back-end e front-end na empresa Nagem.
+Sou formado em Analise e Desenvolvimento de Sistemas na FICR. Estou sempre buscando me aperfeiçoar em back-end e front-end.
 Hoje tenho vivências com frameworks ágeis - Scrum, Kanban.
 Algumas linguagens de programação como: PHP, Laravel, React, JavaScript;
 Conhecimento em linguagem de marcação: HTML, CSS;
